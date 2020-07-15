@@ -1,0 +1,9 @@
+# Solution of Assignment 1
+while(start! = end)do
+if(Is_Next_Block_Bomb) then
+move down
+move down
+else
+move right
+end-if
+end-while
