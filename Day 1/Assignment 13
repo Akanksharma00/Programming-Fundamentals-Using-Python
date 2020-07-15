@@ -1,0 +1,14 @@
+# Solution of Assignment 13
+
+while(start!=end) do
+move forward
+if(Red_Key_Found) then
+Unlock Red Lock
+else-if(Blue_Key_Found) then
+Unlock Blue Lock
+end-if
+if(Right_Turn_Available) then
+Turn Right
+move Forward
+end-if
+end-while
